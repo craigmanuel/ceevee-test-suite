@@ -1,5 +1,5 @@
 # Ceevee AI – Software Tester Internship Submission
-Prepared by: Craig Manuel
+Prepared by: Craig Zyrus Manuel
 
 ## Overview
 This repository contains a comprehensive manual test suite for one of the core features of the Ceevee AI platform.
